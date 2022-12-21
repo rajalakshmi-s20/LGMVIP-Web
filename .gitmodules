@@ -4,3 +4,6 @@
 [submodule "calculator"]
 	path = calculator
 	url = https://github.com/rajalakshmi-s20/calculator.git
+[submodule "user-card-grid-layout"]
+	path = user-card-grid-layout
+	url = https://github.com/rajalakshmi-s20/user-card-grid-layout.git
